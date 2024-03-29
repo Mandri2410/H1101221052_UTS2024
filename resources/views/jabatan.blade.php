@@ -15,6 +15,7 @@
                                 <option value="Manager">Manager</option>
                                 <option value="Supervisor">Supervisor</option>
                                 <option value="Staff">Staff</option>
+                                <option value="Staff">Programmer</option>
                                 <!-- Tambahkan opsi jabatan lainnya jika diperlukan -->
                             </select>
                         </div>
